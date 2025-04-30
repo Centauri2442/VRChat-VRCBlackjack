@@ -1,3 +1,6 @@
+## Note to Reviewers
+This project was developed under tight constraints (VRChat UdonSharp and networking limitations) and does not reflect my current code quality standards. For more representative examples of my work, please see my pinned repositories or visit my [portfolio](https://studioviolet.net/).
+
 ![Blackjack System 1](https://user-images.githubusercontent.com/28989460/201808178-fa195fc6-f1e8-4de0-ac4d-749f6b39109c.PNG)
 
 #### VRCBlackjack is a prefab that allows you to create multiple tables and play Blackjack with your friends! With 7 players per table, both manual and automatic dealing, and a full chip system, it is jam-packed with features that'll make you and your friends have fun for hours!
